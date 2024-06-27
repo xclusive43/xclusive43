@@ -44,6 +44,29 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" />
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
+## Certifications
+![Udemy](https://img.shields.io/badge/Udemy-Online_Courses-orange) </br>
+1. <a href="https://www.udemy.com/certificate/UC-3b8f0eee-87ec-4322-a0e6-d0be21c53b5d/">The Complete Android Oreo Developer Course - Build 23 Apps!</a> </br>
+
+![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white) </br>
+1. <a href="https://www.hackerrank.com/certificates/6e0825be6076">Rest API (Intermediate) Certificate</a> </br>
+2. <a href="https://www.hackerrank.com/certificates/4c2d1af22931">SQL (Intermediate) Certificate</a> </br>
+3. <a href="https://www.hackerrank.com/certificates/50908f6b7efa">Angular (Basic) Certificate</a> </br>
+4. <a href="https://www.hackerrank.com/certificates/5eb39f568a08">Problem Solving (Basic) Certificate!</a> </br>
+5. <a href="https://www.hackerrank.com/certificates/fa833636370e">Java (Basic) Certificate</a> </br>
+6. <a href="https://www.hackerrank.com/certificates/db8e2ef72dd4">Python (Basic) Certificate</a> </br>
+7. <a href="https://www.hackerrank.com/certificates/658486b12aee">SQL (Basic) Certificate</a> </br>
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </br>
+1. <a href="https://drive.google.com/file/d/14NpvURytJ2DrORt71kaDUeMXCqtdGzo0/view">Building Android Apps with AWS</a> </br>
+2. <a href="https://www.linkedin.com/learning/certificates/35a3b5da589bf7697dad1d5ea025c74831046e7eedf95c05cb6906a4fe6e80c2?trk=backfilled_certificate">Java: Data Structures</a> </br>
+
+![IBM](https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white) </br>
+1. <a href="https://courses.cognitiveclass.ai/certificates/8a77f3e7222b4b42986d4eb0ae22ad17">Python 101 for Data Science</a> </br>
+2. <a href="https://courses.cognitiveclass.ai/certificates/fdbd983b69224c6eb85dd85b5f319040">SQL and Relational Databases 101</a> </br>
+
+<img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?&style=for-the-badge&logo=Kaggle&color=yellow&logoColor=white" /></br>
+1. <a href="https://www.kaggle.com/learn/certification/ajayprajapati123/python">Python</a> </br>
  
 ```java
 import java.awt.Desktop;
