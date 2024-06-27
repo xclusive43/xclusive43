@@ -17,6 +17,9 @@
 
 ### :eyes: Profile Views,
 <img alt="Viewers" src="https://komarev.com/ghpvc/?username=vikas-ukani&color=green&style=flat-square"/>
+
+### My GitHub Achievement Trophies
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=xclusive43&theme=discord)
 <!-- Place this tag where you want the button to render. -->
 <!-- <a class="github-button" href="https://github.com/vikas-ukani" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-size="large" aria-label="Follow @vikas-ukani on GitHub">Follow @vikas-ukani</a> -->
 
@@ -174,6 +177,9 @@ I currently working as a <a href="https://www.linkedin.com/in/ajay-prajapati%F0%
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xclusive43&theme=radical)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xclusive43&show_icons=true&theme=radical) ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=xclusive43&show_icons=true&theme=radical)
-[![Ajay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xclusive43)](https://github.com/xclusive43/github-readme-stats) 
+
+ 
+### Random Joke 😂
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
