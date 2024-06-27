@@ -141,7 +141,7 @@ I currently working as a <a href="https://www.linkedin.com/in/ajay-prajapati%F0%
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" />
 
 
-## Programming Skills In,
+## Programming/Tech Skills In,
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) &nbsp;  &nbsp;
 <img src="https://img.shields.io/badge/javascript-%23D00000.svg?&style=for-the-badge&logo=javascript&logoColor=white" />  &nbsp;  &nbsp; <img src="https://img.shields.io/badge/mysql-%FFFFFF.svg?&style=for-the-badge&logo=mysql&logoColor=white" />    &nbsp; &nbsp;
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) &nbsp; &nbsp;
@@ -167,13 +167,13 @@ I currently working as a <a href="https://www.linkedin.com/in/ajay-prajapati%F0%
 
 ## Visual Status
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xclusive43&bg_color=1A1B27&color=d8abd5&line=ffff00&point=ffc800&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ajay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xclusive43&bg_color=1A1B27&color=d8abd5&line=ffff00&point=ffc800&area=true&hide_border=false)] 
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xclusive43&hide_progress=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xclusive43&theme=radical)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xclusive43&show_icons=true&theme=radical) ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=xclusive43&show_icons=true&theme=radical)
-<!-- [![Vikas Ukani's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vikas-ukani)](https://github.com/vikas-ukani/github-readme-stats) -->
+[![Ajay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xclusive43)](https://github.com/xclusive43/github-readme-stats) 
 
 
