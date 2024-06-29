@@ -16,7 +16,7 @@
 <img align="right" alt="GIF" src="https://gifimage.net/wp-content/uploads/2018/06/trabajo-gif-4.gif" width="360"/>
 
 ### :eyes: Profile Views,
-<img alt="Viewers" src="https://komarev.com/ghpvc/?username=vikas-ukani&color=green&style=flat-square"/>
+<img alt="Viewers" src="https://komarev.com/ghpvc/?username=xclusive43&color=green&style=flat-square"/>
 
 ### My GitHub Achievement Trophies
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=xclusive43&theme=discord)
@@ -30,8 +30,8 @@
 
 <ul>
  
- <li> <p class="text-align: justify;">🔭 Presently, I’m working as <a href="https://www.linkedin.com/in/vikas-ukani-a02499167/"><b>Product Developer (Full-Stack Software Engineer)</b></a> at <i>infosys</i>.</p></li>
- <li> 💼 I began my Android/Web development journey back in 2019 at <a href="https://www.coruscatesolution.com/"><b>Nehu.</b> </a> as Student.</li>
+ <li> <p class="text-align: justify;">🔭 Presently, I’m working as <a href="https://www.linkedin.com/in/ajay-prajapati%F0%9F%A6%BE-294b401ab/"><b>Product Developer (Full-Stack Software Engineer)</b></a> at <i>infosys</i>.</p></li
+ <li> 💼 I began my Android/Web development journey back in 2019 at <a href="https://www.nehu.ac.in/"><b>Nehu.</b> </a> as Student.</li>
  
  <li> 💡 Highly interested in becoming an Expert in FULL-STACK ENGINEER ❤️</li>
  <li> 🎧 I love to watch BigBoss 🎶 , Watching Documentry Movies 📽️. and Playing TT/Football/Badminton.</li>
